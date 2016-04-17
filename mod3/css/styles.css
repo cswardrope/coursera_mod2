@@ -43,21 +43,3 @@ div.tile > div.content > h3 {
 }
 /*End body*/
 
-
-
-
-
-/*Large sized devices*/
-@media (min-width: 992px) {
-
-}
-
-/*Medium sized devices*/
-@media (min-width: 768px) and (max-width: 991px){
-
-}
-
-/*Small sized devices*/
-@media (max-width: 767px){
-	
-}
